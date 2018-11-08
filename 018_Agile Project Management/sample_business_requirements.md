@@ -1,13 +1,25 @@
 # Title
+Ride Share APPLICATION
 
 ## Executive Summary
-
+This Application is a ride share service unlike other services that charge a higher fee certain hours of the day. this would be a more local and simplified ride services only operating in a 35 miles radius but in cities without fast reliable public transportation.
 *Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+Scheduling and coordination of project resources are a core responsibility of Project Management to ensure that the project maintains its schedule. PMs will work with stakeholders and team members to coordinate and communicate the schedule, as well as adjustments to the schedule as they arise.
 
+The scope of the project refers to the breadth of work to be done. Frequently we underestimate or overestimate the scope of a project. This causes scope changes to be a frequent occurrence in the life of a PM. It is the PM's responsibility to manage and coordinate changes in scope to ensure that the outcome of the project is satisfactory.
+
+Some scope adjustments are negotiable, such as a stakeholder requesting an additional feature. Others, however, are non-negotiable such as identifying a critical bug while working on a feature. The PM must negotiate and manage expectations within the team and stakeholders when scope changes occur.
+
+Project communication is essential to ensure that the team and stakeholders are both aware and comfortable with the progress and direction of the project. The PM will typically produce reports at regular intervals to communicate progress and risks. For many project management frameworks, the reporting structure is standardized to leverage common language and avoid confusion.
+
+Stakeholders often deal in very high-level requests ("Let's build an email client"). The PM is required to break these high-level terms down into all of the sub-tasks which must be completed to satisfy the request.
+
+This process is called a Work Breakdown Structure (WBS). A WBS is the process of starting with the desired outcome and working your way back to define 100% of the dependent tasks to deliver that outcome. This process produces a comprehensive scope of the project.
+
+A WBS is neither a project plan, a schedule, nor a chronological listing. It specifies what will be done, not how or when.
 ## Background
 
 *Provide any relevant background information regarding why this project is being initiated*
